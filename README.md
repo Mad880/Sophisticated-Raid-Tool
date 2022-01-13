@@ -15,6 +15,8 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the req
 pip install -r requirements.txt
 ```
 
+Make a .env file and set your user token as TOKEN
+
 Run the main file.
 
 ```bash
